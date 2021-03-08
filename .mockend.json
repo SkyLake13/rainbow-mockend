@@ -5,7 +5,7 @@
     "type": "string"
   },
   "Main": {
-    sections: "Section[]"
+    "sections": "Section[]"
   },
   "Section": {
     "heading": "string",
