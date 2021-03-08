@@ -1,10 +1,8 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "Nav": {
+    "text": "string",
+    "url": "string",
+    "type": "string",
   },
   "Comment": {
     "body": "string",
