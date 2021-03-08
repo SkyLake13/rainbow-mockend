@@ -2,9 +2,7 @@
   "Nav": {
     "text": "string",
     "url": "string",
-    "type": "string",
-    "createdAt": "date",
-    "comments": "Comment[]"
+    "type": "string"
   },
   "Comment": {
     "body": "string",
