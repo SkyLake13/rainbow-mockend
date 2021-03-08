@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Nav": {
     "title": "string",
     "views": "int",
     "published": "boolean",
