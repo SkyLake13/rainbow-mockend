@@ -4,9 +4,6 @@
     "url": "string",
     "type": "string"
   },
-  "Main": {
-    "sections": "Section[]"
-  },
   "Section": {
     "heading": "string",
     "content": "string"
