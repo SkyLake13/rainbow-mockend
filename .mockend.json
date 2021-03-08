@@ -4,8 +4,11 @@
     "url": "string",
     "type": "string"
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  "Main": {
+    sections: "Section[]"
+  },
+  "Section": {
+    "heading": "string",
+    "content": "string"
   }
 }
