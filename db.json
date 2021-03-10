@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Home",
+      "path": "home",
       "sections": [
         {
           "id": 1,
@@ -74,6 +75,7 @@
     {
       "id": 2,
       "title": "Other",
+      "path": "other",
       "sections": [
         {
           "id": 1,
