@@ -9,7 +9,7 @@
           "id": 1,
           "title": "Section 1",
           "content": {
-            "value": "This is content of Section 1"
+            "value": "<p style='background-color: red'>This rich text binding</p>"
           },
           "position": {
             "lg": 1,
